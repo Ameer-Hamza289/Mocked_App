@@ -1,6 +1,6 @@
-# Project Name
+# MOCKED_APP
 
- MOCKING_API_APP
+ This app is created for testing purposes so that the process to mock the API requests without having server(backend).
 
 ## Installation
 
@@ -10,7 +10,7 @@ git clone <git@gitlab.tectsoft.com>:Ameer-Hamza/mocked_app.git
 
 ### Navigate to the project directory
 
-cd mocking_api_app
+cd mocked_app
 
 ### Install dependencies
 
