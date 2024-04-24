@@ -1,6 +1,6 @@
 # MOCKED_APP
 
- This app is created for testing purposes so that the process to mock the API requests without having server(backend).
+ This React app created using vite, serves as a testing tool, facilitating API request mocking without requiring a backend server.
 
 ## Installation
 
